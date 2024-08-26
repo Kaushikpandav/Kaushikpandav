@@ -1,7 +1,7 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:2878/0*M50IPKZz58Fyy178.gif)]
 <h1 align="center">Hi 👋, I'm Kaushikk</h1>
 <h3 align="center">Passionate to AL/ML</h3>
-<img align="right" alt="AI/ML" width="270" height="200" src="https://vedantc6.github.io/assets/images/ai.gif" >
+<!-- <img align="right" alt="AI/ML" width="270" height="200" src="https://vedantc6.github.io/assets/images/ai.gif" > -->
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushikpandav&label=Profile%20views&color=0e75b6&style=flat" alt="kaushikpandav" /> </p>
